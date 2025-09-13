@@ -1,2 +1,2 @@
 # AppFood
-Desenvolvendo backend com fastapi de palicativo de comida
+Desenvolvendo backend com fastapi de aplicativo de comida
